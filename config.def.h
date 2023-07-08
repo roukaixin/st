@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "WenQuanYi Zen Hei Mono:size=17:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font:style=ExtraLight Italic,Italic:size=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
