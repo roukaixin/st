@@ -1,0 +1,7 @@
+.idea
+
+# 编译生成的文件
+config.h
+st
+st.o
+x.o
